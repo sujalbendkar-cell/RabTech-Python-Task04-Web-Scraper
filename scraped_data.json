@@ -1,0 +1,122 @@
+[
+  {
+    "id": 2,
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "url": "https://swarmtraces.org/",
+    "points": 493,
+    "author": "specked-citrus",
+    "category": "Tech News"
+  },
+  {
+    "id": 7,
+    "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "url": "https://ollaya.dev/",
+    "points": 463,
+    "author": "Ardakilic",
+    "category": "Tech News"
+  },
+  {
+    "id": 6,
+    "title": "Plan mode is dead",
+    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+    "points": 333,
+    "author": "jmvldz",
+    "category": "Tech News"
+  },
+  {
+    "id": 14,
+    "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+    "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+    "points": 230,
+    "author": "pseudolus",
+    "category": "Tech News"
+  },
+  {
+    "id": 10,
+    "title": "What even is an OS now?",
+    "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+    "points": 203,
+    "author": "fratellobigio",
+    "category": "Tech News"
+  },
+  {
+    "id": 9,
+    "title": "Show HN: Jev Plays Pok\u00e9mon Red",
+    "url": "https://jev-pokemon.vercel.app/",
+    "points": 202,
+    "author": "pancomplex",
+    "category": "Tech News"
+  },
+  {
+    "id": 15,
+    "title": "Gravity seems holographic. What does that mean for reality?",
+    "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+    "points": 202,
+    "author": "ibobev",
+    "category": "Tech News"
+  },
+  {
+    "id": 5,
+    "title": "We're gonna need a lot more mathematicians",
+    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+    "points": 141,
+    "author": "srcreigh",
+    "category": "Tech News"
+  },
+  {
+    "id": 4,
+    "title": "A single function Jev-like wrapper for LLMs, including vision models",
+    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+    "points": 77,
+    "author": "allanrbo",
+    "category": "Tech News"
+  },
+  {
+    "id": 13,
+    "title": "The Murky History of Soviet-Born Tetris",
+    "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+    "points": 48,
+    "author": "EA-3167",
+    "category": "Tech News"
+  },
+  {
+    "id": 1,
+    "title": "How to keep enjoying programming in a world of LLMs",
+    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "points": 31,
+    "author": "signa11",
+    "category": "Tech News"
+  },
+  {
+    "id": 11,
+    "title": "Is your Postgres migration safe or not safe?",
+    "url": "https://safenotsafe.dev/",
+    "points": 24,
+    "author": "vira28",
+    "category": "Tech News"
+  },
+  {
+    "id": 12,
+    "title": "16GB iPod Nano 3G Upgrade",
+    "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+    "points": 17,
+    "author": "Ivoah",
+    "category": "Tech News"
+  },
+  {
+    "id": 8,
+    "title": "Floci: Locally emulating any cloud service",
+    "url": "https://floci.io",
+    "points": 9,
+    "author": "theanonymousone",
+    "category": "Tech News"
+  },
+  {
+    "id": 3,
+    "title": "Fifteen years later, the Apple Cards origin story",
+    "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "points": 5,
+    "author": "ksec",
+    "category": "Tech News"
+  }
+]

@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "techscraper"
+version = "1.0.0"
+description = "Automated Web Scraping & Data Extraction Pipeline"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "requests>=2.31.0"
+]
+
+[project.scripts]
+techscraper = "techscraper.main:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
